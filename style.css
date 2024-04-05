@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: pink;
+}
+.flower{
+    width: 30vw;
+    height: 60vh;
+    position: relative;
+    top: 100px;
+    left: 100px;
+}
+img{
+    width: 30vw;
+    height: 60vh;
+}
+.about{
+    width: 30vw;
+    height: 50vh;
+    background-color: white;
+    position: absolute;
+    bottom: 40px;
+    left: 400px;
+}
+p{
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+    color: pink;
+}
+h1{
+    color: pink;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
